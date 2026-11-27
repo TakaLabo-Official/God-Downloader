@@ -42,7 +42,7 @@ Windows 10/11（64ビット推奨）、.NET Framework 4.8以上を想定して�
 
 ## 関連機器 / Related hardware
 
-**以下のリンクはAmazonアフィリエイト広告です。** / **The links below are affiliate links.**
+**Amazon広告 / Ad**
 
 | 商品 | 用途 |
 | --- | --- |
