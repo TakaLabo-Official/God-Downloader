@@ -40,6 +40,18 @@ Windows 10/11（64ビット推奨）、.NET Framework 4.8以上を想定して�
 - **NASに保存できる？** ローカル作業領域を経由してNASに保存できます。接続状況・空き容量・書き込み権限を確認してください。
 - **無料？** 無料・広告なし。任意の開発支援は機能の利用条件ではありません。
 
+## 関連機器 / Related hardware
+
+**以下のリンクはAmazonアフィリエイト広告です。** / **The links below are affiliate links.**
+
+| 商品 | 用途 |
+| --- | --- |
+| [バッファロー HD-AD4U3 外付けHDD 4TB](https://www.amazon.co.jp/dp/B07BK6696F/ref=nosim?tag=takalabo-22) | PCの保存容量の拡張 |
+| [Synology DiskStation DS223j 2ベイNASキット](https://www.amazon.co.jp/dp/B0C8814GKB/ref=nosim?tag=takalabo-22) | ネットワークストレージ（HDD別売） |
+
+Amazonのアソシエイトとして、Taka Laboは適格販売により収入を得ています。
+As an Amazon Associate, Taka Labo earns from qualifying purchases.
+
 ## 利用条件
 
 本ソフトの自作部分は無料利用可能ですが、著作権その他の権利は放棄していません。許諾のない再配布・改変版の配布・販売は禁止します。ただし法令や第三者ライセンスに基づく利用は制限しません。保存対象の権利・許諾とサービス利用条件を確認し、アクセス制御や技術的保護手段の回避を目的としないでください。詳細は同梱README.txtを参照してください。
