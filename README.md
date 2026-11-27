@@ -48,6 +48,9 @@ Windows 10/11（64ビット推奨）、.NET Framework 4.8以上を想定して�
 | --- | --- |
 | [バッファロー HD-AD4U3 外付けHDD 4TB](https://www.amazon.co.jp/dp/B07BK6696F/ref=nosim?tag=takalabo-22) | PCの保存容量の拡張 |
 | [Synology DiskStation DS223j 2ベイNASキット](https://www.amazon.co.jp/dp/B0C8814GKB/ref=nosim?tag=takalabo-22) | ネットワークストレージ（HDD別売） |
+| [Samsung T7 外付けSSD 2TB](https://www.amazon.co.jp/dp/B0F3NF8XRV/ref=nosim?tag=takalabo-22) | USB接続のポータブルストレージ |
+| [Western Digital WD Red Plus 4TB（WD40EFPX-EC）](https://www.amazon.co.jp/dp/B0BKF2571B/ref=nosim?tag=takalabo-22) | NAS用3.5インチHDD |
+| [TP-Link TL-SG105 5ポート ギガビットスイッチ](https://www.amazon.co.jp/dp/B00A128S24/ref=nosim?tag=takalabo-22) | PC・NASの有線LAN接続 |
 
 Amazonのアソシエイトとして、Taka Laboは適格販売により収入を得ています。
 As an Amazon Associate, Taka Labo earns from qualifying purchases.
